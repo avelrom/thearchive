@@ -1,21 +1,16 @@
-```
+
 <img src="./images/logo.png">
-```
-
-
 
 ## Python
 
 - [Python programming exercises](https://github.com/zhiwehu/Python-programming-exercises)
-
-  
 
 ## Git
 
 - [Git-it](https://github.com/jlord/git-it-electron) - A Mac, Win and Linux desktop app for learning Git and GitHub
 - [Cli](https://github.com/cli/cli) - GitHub’s official command line tool
 
-## Machine Learning
+## Machine Learning
 
 - [Trax](https://github.com/google/trax)
 - [Scikit-Learn](https://github.com/scikit-learn/scikit-learn)
@@ -27,7 +22,6 @@
 - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
 - [Neural Network and Deep Learning](https://github.com/nndl/nndl.github.io)
 - [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-
 
 
 ## Web 
@@ -46,29 +40,21 @@
 - [Octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with <3 by GitHub
 - [Feather](https://github.com/feathericons/feather)
 
-## Books
+## Books
 
 - [Book colection 1](https://github.com/MrAlex6204/Books)
 - [Data Science Books](https://github.com/SayantanMitra87/Data-Science-Books-1)
 
 
+## Utilities
 
-## Utilities
 
 - [Spotify Dedup](https://github.com/JMPerez/spotify-dedup) - Remove duplicate songs from your Spotify Library
-
 - [Octrotree](https://github.com/ovity/octotree) 
-
 - [Gh-card](https://github.com/nwtgck/gh-card) - Github repository card for any website
-
 - [MacDown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS
-
 - [Peer-pad](https://github.com/peer-base/peer-pad) - Online editor providing collaborative editing in real-time
-
 - [Nomnoml](https://github.com/dqisme/nomnoml-app) - A UML class diagrams tool on mac desktop
-
-  
-
 
 
 ## Freak stuff
